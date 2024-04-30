@@ -1,4 +1,4 @@
-# clpb
+# CLPB
 CLPB: chaotic learner performance based behaviour
 
 Cite as: 
